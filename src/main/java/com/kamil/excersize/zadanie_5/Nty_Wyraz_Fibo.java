@@ -18,7 +18,7 @@ public class Nty_Wyraz_Fibo {
         }else if (number==1) {
             result = 2;
         }else if(number > 1) {
-            result =
+
         }
 
 
