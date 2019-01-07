@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeff6f6b-2937-4882-8ad1-7516a56b1886" name="Default Changelist" comment="" />
+    <list default="true" id="aeff6f6b-2937-4882-8ad1-7516a56b1886" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,22 +23,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="25" />
+          <entry key="java" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6088" />
+          <entry key="java" value="8519" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6088" />
+          <entry key="JAVA" value="8519" />
         </counts>
       </usages-collector>
     </session>
@@ -44,14 +46,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Srednia_Ujemnych_Iloczyn_Dodatnich.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/zadanie_4/MyNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+            <state relative-caret-position="128">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#890#891#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,6 +74,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>newStr</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>newStrDigit</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,6 +106,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Rysuje_Trojkat_Prostokatny.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Wyznacza_Druga_Najwieksza_Liczbe.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Srednia_Ujemnych_Iloczyn_Dodatnich.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/UpperCase_Pozycje_Podzielne_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Liczy_Cyfry_Zwraca_Bez_Cyfr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Czy_Wieksza_Od_5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Wypisz_Liczby_Nieparzyste_Z_Przedzialu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Suma_Potega.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_podstawowa/Suma_Potega.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/Zadanie_1/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/zadanie_2/Prostokat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/zadanie_4/MuNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/zadanie_4/MyNumber.java" />
       </list>
     </option>
   </component>
@@ -108,7 +136,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="12" />
     <option name="y" value="8" />
-    <option name="width" value="1476" />
+    <option name="width" value="1111" />
     <option name="height" value="1054" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -160,7 +188,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="excersize" type="462c0819:PsiDirectoryNode" />
-              <item name="przykladowe_zadania_proste_1" type="462c0819:PsiDirectoryNode" />
+              <item name="grupa_podstawowa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KozakExcersize" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KozakExcersize" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="excersize" type="462c0819:PsiDirectoryNode" />
+              <item name="grupa_podstawowa" type="462c0819:PsiDirectoryNode" />
+              <item name="grupa_zaawansowana" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -172,7 +210,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546881319440" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546903592777" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -188,13 +226,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Srednia_Ujemnych_Iloczyn_Dodatnich">
-    <configuration name="Losuje_Random_Dopoki_Zero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.przykladowe_zadania_1.Losuje_Random_Dopoki_Zero" />
+  <component name="RunManager" selected="Application.MyNumber">
+    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.Zadanie_1.Human" />
       <module name="jKozakCwiczenia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamil.excersize.przykladowe_zadania_1.*" />
+          <option name="PATTERN" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.Zadanie_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Podaje_Ile_Liczb_Wylosowac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.przykladowe_zadania_2.Podaje_Ile_Liczb_Wylosowac" />
+    <configuration name="MyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.zadanie_4.MyNumber" />
       <module name="jKozakCwiczenia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamil.excersize.przykladowe_zadania_2.*" />
+          <option name="PATTERN" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.zadanie_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rysuje_Trojkat_Prostokatny" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.przykladowe_zadania_proste_1.Rysuje_Trojkat_Prostokatny" />
+    <configuration name="Prostokat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.zadanie_2.Prostokat" />
       <module name="jKozakCwiczenia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamil.excersize.przykladowe_zadania_proste_1.*" />
+          <option name="PATTERN" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.zadanie_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Srednia_Ujemnych_Iloczyn_Dodatnich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.przykladowe_zadania_proste_1.Srednia_Ujemnych_Iloczyn_Dodatnich" />
+    <configuration name="Suma_Potega" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_podstawowa.Suma_Potega" />
       <module name="jKozakCwiczenia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamil.excersize.przykladowe_zadania_proste_1.*" />
+          <option name="PATTERN" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_podstawowa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wyznacza_Druga_Najwieksza_Liczbe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.przykladowe_zadania_proste_1.Wyznacza_Druga_Najwieksza_Liczbe" />
+    <configuration name="Wypisz_Liczby_Nieparzyste_Z_Przedzialu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_podstawowa.Wypisz_Liczby_Nieparzyste_Z_Przedzialu" />
       <module name="jKozakCwiczenia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamil.excersize.przykladowe_zadania_proste_1.*" />
+          <option name="PATTERN" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_podstawowa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Losuje_Random_Dopoki_Zero" />
-      <item itemvalue="Application.Podaje_Ile_Liczb_Wylosowac" />
-      <item itemvalue="Application.Rysuje_Trojkat_Prostokatny" />
-      <item itemvalue="Application.Wyznacza_Druga_Najwieksza_Liczbe" />
-      <item itemvalue="Application.Srednia_Ujemnych_Iloczyn_Dodatnich" />
+      <item itemvalue="Application.Wypisz_Liczby_Nieparzyste_Z_Przedzialu" />
+      <item itemvalue="Application.Suma_Potega" />
+      <item itemvalue="Application.Human" />
+      <item itemvalue="Application.Prostokat" />
+      <item itemvalue="Application.MyNumber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Srednia_Ujemnych_Iloczyn_Dodatnich" />
-        <item itemvalue="Application.Wyznacza_Druga_Najwieksza_Liczbe" />
-        <item itemvalue="Application.Rysuje_Trojkat_Prostokatny" />
-        <item itemvalue="Application.Podaje_Ile_Liczb_Wylosowac" />
-        <item itemvalue="Application.Losuje_Random_Dopoki_Zero" />
+        <item itemvalue="Application.MyNumber" />
+        <item itemvalue="Application.Prostokat" />
+        <item itemvalue="Application.Human" />
+        <item itemvalue="Application.Suma_Potega" />
+        <item itemvalue="Application.Wypisz_Liczby_Nieparzyste_Z_Przedzialu" />
       </list>
     </recent_temporary>
   </component>
@@ -282,12 +320,12 @@
       <option name="presentableId" value="Default" />
       <updated>1546847124842</updated>
       <workItem from="1546847134444" duration="7427000" />
-      <workItem from="1546856908890" duration="18377000" />
+      <workItem from="1546856908890" duration="26691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25804000" />
+    <option name="totallyTimeSpent" value="34118000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -299,10 +337,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="8" width="1476" height="1054" extended-state="0" />
+    <frame x="12" y="8" width="1111" height="1054" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25353107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34157944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,8 +349,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31378937" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4169381" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
@@ -495,12 +533,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Srednia_Ujemnych_Iloczyn_Dodatnich.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        <state relative-caret-position="162">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />
             <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/UpperCase_Pozycje_Podzielne_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="83" lean-forward="true" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Liczy_Cyfry_Zwraca_Bez_Cyfr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_podstawowa/Czy_Wieksza_Od_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_podstawowa/Suma_Potega.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_podstawowa/Wypisz_Liczby_Nieparzyste_Z_Przedzialu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/Zadanie_1/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/zadanie_2/Prostokat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/zadanie_4/MyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
           </folding>
         </state>
       </provider>
