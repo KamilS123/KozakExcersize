@@ -5,21 +5,20 @@ public class Pozycja {
     int ileSztuk;
     double cena;
 
+    public Pozycja() {
+    }
+
     public Pozycja(String nazwaTowaru, int ileSztuk, double cena) {
         this.nazwaTowaru = nazwaTowaru;
         this.ileSztuk = ileSztuk;
         this.cena = cena;
     }
-    private Double obliczWartosc() {
+    public Double obliczWartosc() {
         return cena * ileSztuk;
     }
 
     @Override
     public String toString() {
-        return "Pozycja{" +
-                "nazwaTowaru='" + nazwaTowaru + '\'' +
-                ", ileSztuk=" + ileSztuk +
-                ", cena=" + cena +
-                '}';
+        return  nazwaTowaru + " " + ileSztuk + "szt " + cena + "zł Do zapłaty " + obliczWartosc() + "zł";
     }
 }

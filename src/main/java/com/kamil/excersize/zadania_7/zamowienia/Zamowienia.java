@@ -1,20 +1,36 @@
 package com.kamil.excersize.zadania_7.zamowienia;
 
+import java.util.Arrays;
+
 public class Zamowienia {
-    Pozycja[]pozycja;
-    int ileDodanych;
-    int maksRozmiar;
+    Pozycja[] pozycje;
+    private int ileDanych;
+    private int maksRozmiar;
 
     public Zamowienia() {
-        maksRozmiar = 10;
+        this.maksRozmiar=10;
     }
 
-    public Zamowienia(Pozycja[] pozycja, int ileDodanych, int maksRozmiar) {
-        this.pozycja = pozycja;
-        this.ileDodanych = ileDodanych;
-        this.maksRozmiar = maksRozmiar;
+    Zamowienia(int ileDanych){
+        this.ileDanych = ileDanych;
+    }
+    public void dodajPozycje(Pozycja p) {
+        for(int i = 0; i<maksRozmiar; i++) {
+           if (pozycje.length<maksRozmiar){
+               pozycje[ileDanych]=p;
+           }
+        }
+    }
+    public double obliczWartosc(){
+        double lacznie = 0.0;
+        /*for(int i=0; i<ileDanych; i++){
+            lacznie += pozycje[i].obliczWartosc();
+        }*/
+        return lacznie;
     }
 
-    public void dodajPozycje(Pozycja pozycja) {
+    @Override
+    public String toString() {
+        return "\nZamowienie: \n" + Arrays.toString(pozycje) + "\n" + obliczWartosc() + "zł";
     }
 }
