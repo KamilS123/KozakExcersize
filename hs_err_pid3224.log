@@ -167,9 +167,9 @@ Deoptimization events (0 events):
 No events
 
 Classes redefined (3 events):
-Event: 67.062 Thread 0x00000000143f1800 redefined class name=com.kamil.excersize.zadania_7.lista.Lista, count=1
-Event: 101.983 Thread 0x00000000143f1800 redefined class name=com.kamil.excersize.zadania_7.lista.Lista, count=2
-Event: 213.073 Thread 0x00000000143f1800 redefined class name=com.kamil.excersize.zadania_7.lista.Lista, count=3
+Event: 67.062 Thread 0x00000000143f1800 redefined class name=Lista, count=1
+Event: 101.983 Thread 0x00000000143f1800 redefined class name=Lista, count=2
+Event: 213.073 Thread 0x00000000143f1800 redefined class name=Lista, count=3
 
 Internal exceptions (2 events):
 Event: 0.207 Thread 0x00000000020f1000 Exception <a 'java/lang/NoSuchMethodError': Method sun.misc.Unsafe.defineClass(Ljava/lang/String;[BII)Ljava/lang/Class; name or signature does not match> (0x00000000f0007cb0) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u181\11358\hotspot
@@ -229,7 +229,7 @@ Dynamic libraries:
 
 VM Arguments:
 jvm_args: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:49494,suspend=y,server=n -javaagent:C:\Users\Magda\.IntelliJIdea2018.2\system\captureAgent\debugger-agent.jar=file:/C:/Users/Magda/AppData/Local/Temp/capture.props -Dfile.encoding=UTF-8 
-java_command: com.kamil.excersize.zadania_7.lista.Main
+java_command: Main
 java_class_path (initial): C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Users\Magda\IdeaProjects\KozakExcersize\target\classes;C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.4\lib\idea_rt.jar;C:\Users\Magda\.IntelliJIdea2018.2\system\captureAgent\debugger-agent.jar
 Launcher Type: SUN_STANDARD
 

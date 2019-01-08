@@ -1,7 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeff6f6b-2937-4882-8ad1-7516a56b1886" name="Default Changelist" comment="" />
+    <list default="true" id="aeff6f6b-2937-4882-8ad1-7516a56b1886" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid3224.log" beforeDir="false" afterPath="$PROJECT_DIR$/hs_err_pid3224.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Czy_Wieksza_Od_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_podstawowa/Czy_Wieksza_Od_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Suma_Potega.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_podstawowa/Suma_Potega.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Wypisz_Liczby_Nieparzyste_Z_Przedzialu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_podstawowa/Wypisz_Liczby_Nieparzyste_Z_Przedzialu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_zaawansowana/Zadanie_1/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_1/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_2/Prostokat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_2/Prostokat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_4/MyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_4/MyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Losuje_Random_Dopoki_Zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_1/Losuje_Random_Dopoki_Zero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Pobiera_do_150_Zwraca_Obliczenia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_1/Pobiera_do_150_Zwraca_Obliczenia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Wczytuje_Do_150_Podaje_Ile_Dodatnich.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_1/Wczytuje_Do_150_Podaje_Ile_Dodatnich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Wczytuje_do_Ujemnej_losuje_Random_Maxa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_1/Wczytuje_do_Ujemnej_losuje_Random_Maxa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_2/Podaje_Ile_Liczb_Wylosowac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_2/Podaje_Ile_Liczb_Wylosowac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Liczy_Cyfry_Zwraca_Bez_Cyfr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_proste_1/Liczy_Cyfry_Zwraca_Bez_Cyfr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Rysuje_Trojkat_Prostokatny.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_proste_1/Rysuje_Trojkat_Prostokatny.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Srednia_Ujemnych_Iloczyn_Dodatnich.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_proste_1/Srednia_Ujemnych_Iloczyn_Dodatnich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/UpperCase_Pozycje_Podzielne_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_proste_1/UpperCase_Pozycje_Podzielne_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Wyznacza_Druga_Najwieksza_Liczbe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_proste_1/Wyznacza_Druga_Najwieksza_Liczbe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_1/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_1/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_1/Loan_Installment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_1/Loan_Installment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_1/Read_3_Numbers_Show_Max_Min.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_1/Read_3_Numbers_Show_Max_Min.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_1/TaxCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_1/TaxCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_1/TempConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_1/TempConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_1/calculator_Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_1/calculator_Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/Choinka_Podstawowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/Choinka_Podstawowa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/Oblicza_Sume_Cyfr_I_Stosunek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/Oblicza_Sume_Cyfr_I_Stosunek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/Pobiera_Liczby_Podaje_Sume_Srednia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/Pobiera_Liczby_Podaje_Sume_Srednia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/Rysowanie_Prostokata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/Rysowanie_Prostokata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/Silnia_A_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/Silnia_A_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/Sprawdza_Czy_Pierwsza_Liczba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/Sprawdza_Czy_Pierwsza_Liczba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/WczytujeDoPodaniaZeraISumuje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/WczytujeDoPodaniaZeraISumuje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/Wydawanie_Reszty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/Wydawanie_Reszty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/Wyswietla_Dzielniki_Liczby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/Wyswietla_Dzielniki_Liczby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/Wyswietla_Potegi_do_Podanej_Liczby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/Wyswietla_Potegi_do_Podanej_Liczby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/Za_Duzo_Za_Malo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/Za_Duzo_Za_Malo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_2/wyswietla_nieparzyste_do_podanej.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_2/wyswietla_nieparzyste_do_podanej.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_3/Tworzy_Randm_Array_Wykonuje_Dzialania.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_3/Tworzy_Randm_Array_Wykonuje_Dzialania.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_3/Zlicza_Ilosc_Wystapien_w_Tablicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_3/Zlicza_Ilosc_Wystapien_w_Tablicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_4/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_4/Palindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_4/Reverse_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_4/Reverse_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_4/Sprawdza_Czy_Nawiasy_Zadzaja_Sie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_4/Sprawdza_Czy_Nawiasy_Zadzaja_Sie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_4/Sumuje_Cyfry_W_Tekscie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_4/Sumuje_Cyfry_W_Tekscie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_4/Szyfrowanie_Cezara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_4/Szyfrowanie_Cezara.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_4/Wczytuje_Zlicza_Ostatnia_Litere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_4/Wczytuje_Zlicza_Ostatnia_Litere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/czas/Czas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/czas/Czas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/czas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/czas/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/lista/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/lista/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/lista/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/lista/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/zamowienia/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/zamowienia/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/zamowienia/Pozycja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/zamowienia/Pozycja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/zamowienia/Zamowienia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/zamowienia/Zamowienia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Count_Words.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Count_Words.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Cut_From_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Cut_From_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Find_String_In_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Find_String_In_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Liczy_Wystapienia_Slowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Liczy_Wystapienia_Slowa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Nty_Wyraz_Fibo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Nty_Wyraz_Fibo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Podziel_Na_Slowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Podziel_Na_Slowa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Prefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Prefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Przestawia_Litery_W_Stringu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Przestawia_Litery_W_Stringu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Silnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Silnia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/String_To_Int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/String_To_Int.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Zwraca_Duze_Male_Stringi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Zwraca_Duze_Male_Stringi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Zwraca_Indeks_Podanej_Litery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadanie_5/Zwraca_Indeks_Podanej_Litery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_podstawowa/Czy_Wieksza_Od_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_podstawowa/Suma_Potega.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_podstawowa/Wypisz_Liczby_Nieparzyste_Z_Przedzialu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/Zadanie_1/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/zadanie_2/Prostokat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/zadanie_4/MyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/przykladowe_zadania_1/Losuje_Random_Dopoki_Zero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/przykladowe_zadania_1/Pobiera_do_150_Zwraca_Obliczenia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/przykladowe_zadania_1/Wczytuje_Do_150_Podaje_Ile_Dodatnich.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/przykladowe_zadania_1/Wczytuje_do_Ujemnej_losuje_Random_Maxa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/przykladowe_zadania_2/Podaje_Ile_Liczb_Wylosowac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/przykladowe_zadania_proste_1/Liczy_Cyfry_Zwraca_Bez_Cyfr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/przykladowe_zadania_proste_1/Rysuje_Trojkat_Prostokatny.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/przykladowe_zadania_proste_1/Srednia_Ujemnych_Iloczyn_Dodatnich.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/przykladowe_zadania_proste_1/UpperCase_Pozycje_Podzielne_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/przykladowe_zadania_proste_1/Wyznacza_Druga_Najwieksza_Liczbe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_1/BMI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_1/Loan_Installment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_1/Read_3_Numbers_Show_Max_Min.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_1/TaxCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_1/TempConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_1/calculator_Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/Choinka_Podstawowa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/Oblicza_Sume_Cyfr_I_Stosunek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/Pobiera_Liczby_Podaje_Sume_Srednia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/Rysowanie_Prostokata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/Silnia_A_B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/Sprawdza_Czy_Pierwsza_Liczba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/WczytujeDoPodaniaZeraISumuje.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/Wydawanie_Reszty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/Wyswietla_Dzielniki_Liczby.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/Wyswietla_Potegi_do_Podanej_Liczby.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/Za_Duzo_Za_Malo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_2/wyswietla_nieparzyste_do_podanej.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_3/Tworzy_Randm_Array_Wykonuje_Dzialania.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_3/Zlicza_Ilosc_Wystapien_w_Tablicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_4/Palindrom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_4/Reverse_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_4/Sprawdza_Czy_Nawiasy_Zadzaja_Sie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_4/Sumuje_Cyfry_W_Tekscie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_4/Szyfrowanie_Cezara.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_4/Wczytuje_Zlicza_Ostatnia_Litere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_7/czas/Czas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_7/czas/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_7/lista/Lista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_7/lista/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_7/zamowienia/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_7/zamowienia/Pozycja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadania_7/zamowienia/Zamowienia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Count_Words.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Cut_From_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Find_String_In_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Liczy_Wystapienia_Slowa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Nty_Wyraz_Fibo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Podziel_Na_Slowa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Prefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Przestawia_Litery_W_Stringu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Silnia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/String_To_Int.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Zwraca_Duze_Male_Stringi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kamil/excersize/zadanie_5/Zwraca_Indeks_Podanej_Litery.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,53 +140,90 @@
     <session id="-991631124">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.292" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="33" />
+          <entry key="java" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="33" />
+          <entry key="JAVA" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8519" />
+          <entry key="java" value="15487" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8519" />
+          <entry key="JAVA" value="15487" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_4/MyNumber.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Zbieranina.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="323">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding>
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#636#637#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-                <element signature="e#788#789#0" expanded="true" />
-                <element signature="e#827#828#0" expanded="true" />
-                <element signature="e#890#891#0" expanded="true" />
-                <element signature="e#936#937#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/lista/Lista.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="69" lean-forward="true" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+              <folding>
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/lista/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Mammal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -87,26 +251,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/zamowienia/Pozycja.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/zamowienia/zamowienia/Zamowienia.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/zamowienia/zamowienia/zamowienia/Zamowienia.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/zamowienia/Zamowienia.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/lista/Lista.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/czas/Czas.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/czas/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/lista/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/zamowienia/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Pobiera_do_150_Zwraca_Obliczenia.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Wczytuje_do_Ujemnej_losuje_Random_Maxa.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Wczytuje_Do_150_Podaje_Ile_Dodatnich.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Losuje_Random_Dopoki_Zero.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_2/Podaje_Ile_Liczb_Wylosowac.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Rysuje_Trojkat_Prostokatny.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Wyznacza_Druga_Najwieksza_Liczbe.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Srednia_Ujemnych_Iloczyn_Dodatnich.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/UpperCase_Pozycje_Podzielne_3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Liczy_Cyfry_Zwraca_Bez_Cyfr.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Czy_Wieksza_Od_5.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Wypisz_Liczby_Nieparzyste_Z_Przedzialu.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Suma_Potega.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_podstawowa/Suma_Potega.java" />
@@ -116,6 +260,48 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/zadanie_4/MuNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/grupa_zaawansowana/zadanie_4/MyNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_4/MyNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_6/Pracownik.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_6/Firma.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_7/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_7/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_7/Forum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_8/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_8/Lista.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/grupa_zaawansowana/zadania_9/Mian.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/grupa_zaawansowana/zadania_9/Punkt2D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/grupa_zaawansowana/zadania_9/Punkt3D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/grupa_zaawansowana/zadania_9/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/Spotkanie_7/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_1/Wypisz_Elementy_Tablicy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_1/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadania_9/Punkt3D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadania_9/Punkt2D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadania_9/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/zadanie_1/Pole_Prostokata.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/zadanie_2/Zwraca_String_Liczb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/zadanie_3/Zwraca_Indeks_Elementu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/Sumuje_Dopoki_100.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/Losuje_Dopoki_Suma_100.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/Gra_W_Zgadywanie_Liczb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/zadanie_12/Colors.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/zadanie_13/Pomidor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_3/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_3/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_4/Zwierz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_3/GoldFish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Fish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/GoldFish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Mammal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Zbieranina.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/lista/Lista.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/lista/Main.java" />
       </list>
     </option>
   </component>
@@ -133,9 +319,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
-    <option name="y" value="8" />
-    <option name="width" value="1111" />
+    <option name="x" value="194" />
+    <option name="width" value="1600" />
     <option name="height" value="1054" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -147,6 +332,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,7 +364,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="excersize" type="462c0819:PsiDirectoryNode" />
+              <item name="com_kamil_excersize" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KozakExcersize" type="b2602c69:ProjectViewProjectNode" />
@@ -186,22 +372,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="excersize" type="462c0819:PsiDirectoryNode" />
-              <item name="misztal_edu_pl" type="462c0819:PsiDirectoryNode" />
+              <item name="com_kamil_excersize" type="462c0819:PsiDirectoryNode" />
+              <item name="zadania_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KozakExcersize" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KozakExcersize" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com_kamil_excersize" type="462c0819:PsiDirectoryNode" />
+              <item name="zadania_7" type="462c0819:PsiDirectoryNode" />
+              <item name="lista" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546903637373" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546978214632" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -215,13 +411,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyNumber">
-    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.Zadanie_1.Human" />
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com_kamil_excersize.misztal_edu_pl.spotkanie_8.grupa_rozszerzona.zadanie_4.Main" />
       <module name="jKozakCwiczenia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.Zadanie_1.*" />
+          <option name="PATTERN" value="com_kamil_excersize.misztal_edu_pl.spotkanie_8.grupa_rozszerzona.zadanie_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +425,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.zadanie_4.MyNumber" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com_kamil_excersize.misztal_edu_pl.spotkanie_8.grupa_rozszerzona.zadanie_6.Main" />
       <module name="jKozakCwiczenia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.zadanie_4.*" />
+          <option name="PATTERN" value="com_kamil_excersize.misztal_edu_pl.spotkanie_8.grupa_rozszerzona.zadanie_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +438,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prostokat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.zadanie_2.Prostokat" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com_kamil_excersize.zadania_7.lista.Main" />
       <module name="jKozakCwiczenia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_zaawansowana.zadanie_2.*" />
+          <option name="PATTERN" value="com_kamil_excersize.zadania_7.lista.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +451,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Suma_Potega" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_podstawowa.Suma_Potega" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com_kamil_excersize.misztal_edu_pl.spotkanie_8.grupa_rozszerzona.zadanie_3.Main" />
       <module name="jKozakCwiczenia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_podstawowa.*" />
+          <option name="PATTERN" value="com_kamil_excersize.misztal_edu_pl.spotkanie_8.grupa_rozszerzona.zadanie_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +464,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wypisz_Liczby_Nieparzyste_Z_Przedzialu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_podstawowa.Wypisz_Liczby_Nieparzyste_Z_Przedzialu" />
+    <configuration name="Pomidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com_kamil_excersize.misztal_edu_pl.spotkanie_8.grupa_podstawowa.zadanie_13.Pomidor" />
       <module name="jKozakCwiczenia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamil.excersize.misztal_edu_pl.grupa_podstawowa.grupa_podstawowa.*" />
+          <option name="PATTERN" value="com_kamil_excersize.misztal_edu_pl.spotkanie_8.grupa_podstawowa.zadanie_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,19 +478,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Wypisz_Liczby_Nieparzyste_Z_Przedzialu" />
-      <item itemvalue="Application.Suma_Potega" />
-      <item itemvalue="Application.Human" />
-      <item itemvalue="Application.Prostokat" />
-      <item itemvalue="Application.MyNumber" />
+      <item itemvalue="Application.Pomidor" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyNumber" />
-        <item itemvalue="Application.Prostokat" />
-        <item itemvalue="Application.Human" />
-        <item itemvalue="Application.Suma_Potega" />
-        <item itemvalue="Application.Wypisz_Liczby_Nieparzyste_Z_Przedzialu" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Pomidor" />
       </list>
     </recent_temporary>
   </component>
@@ -309,12 +505,14 @@
       <option name="presentableId" value="Default" />
       <updated>1546847124842</updated>
       <workItem from="1546847134444" duration="7427000" />
-      <workItem from="1546856908890" duration="27304000" />
+      <workItem from="1546856908890" duration="27506000" />
+      <workItem from="1546938575491" duration="14207000" />
+      <workItem from="1546954597078" duration="18447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34731000" />
+    <option name="totallyTimeSpent" value="67587000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,10 +524,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="8" width="1111" height="1054" extended-state="0" />
+    <frame x="194" y="0" width="1600" height="1054" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34157944" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23896104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -337,9 +535,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31378937" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4169381" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31378937" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41585234" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
@@ -347,7 +545,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32790446" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -358,6 +556,36 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.259887" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31378937" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41585234" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32790446" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -366,194 +594,42 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Cut_From_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadanie_5/Prefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/lista/Lista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/zamowienia/Pozycja.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding>
-            <element signature="e#410#411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/zamowienia/Zamowienia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/lista/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="83" column="20" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/zamowienia/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/czas/Czas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/zadania_7/czas/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Wczytuje_Do_150_Podaje_Ile_Dodatnich.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Wczytuje_do_Ujemnej_losuje_Random_Maxa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Pobiera_do_150_Zwraca_Obliczenia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_1/Losuje_Random_Dopoki_Zero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_2/Podaje_Ile_Liczb_Wylosowac.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Rysuje_Trojkat_Prostokatny.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_proste_1/Rysuje_Trojkat_Prostokatny.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Wyznacza_Druga_Najwieksza_Liczbe.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_proste_1/Wyznacza_Druga_Najwieksza_Liczbe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Srednia_Ujemnych_Iloczyn_Dodatnich.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_proste_1/Srednia_Ujemnych_Iloczyn_Dodatnich.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/UpperCase_Pozycje_Podzielne_3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_proste_1/UpperCase_Pozycje_Podzielne_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="83" lean-forward="true" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/przykladowe_zadania_proste_1/Liczy_Cyfry_Zwraca_Bez_Cyfr.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/przykladowe_zadania_proste_1/Liczy_Cyfry_Zwraca_Bez_Cyfr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Czy_Wieksza_Od_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Suma_Potega.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_podstawowa/Suma_Potega.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -564,14 +640,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_podstawowa/Wypisz_Liczby_Nieparzyste_Z_Przedzialu.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_podstawowa/Wypisz_Liczby_Nieparzyste_Z_Przedzialu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_zaawansowana/Zadanie_1/Human.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_1/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="536">
           <caret line="57" selection-start-line="57" selection-end-line="57" />
@@ -586,35 +662,366 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_2/Prostokat.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_2/Prostokat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_4/MyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_podstawowa/Czy_Wieksza_Od_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="50" selection-start-line="33" selection-start-column="2" selection-end-line="36" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_7/Forum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_7/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_6/Pracownik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_6/Firma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/zamowienia/Zamowienia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/zamowienia/Pozycja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/zamowienia/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadania_9/Punkt3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadania_9/Punkt2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadania_9/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_8/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kamil/excersize/misztal_edu_pl/grupa_zaawansowana/zadanie_4/MyNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/a.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_6/Wypisz_Elementy_Tablicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_6/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="2484" column="7" lean-forward="true" selection-start-line="2484" selection-start-column="7" selection-end-line="2484" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_7/grupa_zaawansowana/zadanie_8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/Pole_Prostokata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/Zwraca_Indeks_Elementu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/Zwraca_String_Liczb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/Sumuje_Dopoki_100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/Gra_W_Zgadywanie_Liczb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/Losuje_Dopoki_Suma_100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/zadanie_12/Colors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="59" column="34" lean-forward="true" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_podstawowa/zadanie_13/Pomidor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_3/GoldFish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_3/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_4/Zwierz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="66" column="40" lean-forward="true" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/GoldFish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Mammal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/misztal_edu_pl/spotkanie_8/grupa_rozszerzona/zadanie_6/Zbieranina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/lista/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="69" lean-forward="true" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com_kamil_excersize/zadania_7/lista/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
