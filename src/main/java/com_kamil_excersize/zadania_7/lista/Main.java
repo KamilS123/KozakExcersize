@@ -6,16 +6,17 @@ public class Main {
 
         Lista lista = new Lista(10);
 
-        lista.dodajElement(2);              //do poprawy metoda dodaj element wskakuje outOfBounds
-        lista.dodajElement(1);
+        lista.dodajElement(2);
+        lista.dodajElement(8);
+        lista.dodajElement(8);
+        lista.dodajElement(8);
+        lista.dodajElement(8);
+        lista.dodajElement(3);
         lista.dodajElement(14);
-        lista.dodajElement(21);
-        lista.dodajElement(15);
-        lista.dodajElement(11);
-        lista.dodajElement(14);
-        lista.dodajElement(17);
-        lista.dodajElement(61);
-        lista.dodajElement(51);
+        lista.dodajElement(56);
+        lista.dodajElement(4);
+        lista.dodajElement(87);
+
 
         System.out.println("szukany numer jest na pozycji: " + lista.find(14) + "\n");
 

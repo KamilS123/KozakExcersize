@@ -5,23 +5,22 @@ import java.util.Arrays;
 public class Lista {
 
     private int pojemnosc;  //maks liczba elementów
-    private int[] liczby = new int[10];  //przechowuje liczby
+    private int[] liczby;  //przechowuje liczby
     private int rozmiar;  //aktalny rozmiar
 
 
     public Lista(int pojemnosc) {
         this.pojemnosc = pojemnosc;
+        this.liczby = new int[pojemnosc];
     }
 
     public void dodajElement(int dodanaLiczba) {
-        for (int i = 0; i < pojemnosc; i++) {
-            if (liczby[i] == 0) {
-                liczby[i] = dodanaLiczba;
-                break;
-            }else if(liczby.length > pojemnosc) {
-                System.out.println("Przekroczyłeś limit pojemnosci");
+            for (int i = 0; i < pojemnosc; i++) {
+                if (liczby[i] == 0) {
+                    liczby[i] = dodanaLiczba;
+                    break;
+                }
             }
-        }
     }
 
     public Integer find(int number) {
