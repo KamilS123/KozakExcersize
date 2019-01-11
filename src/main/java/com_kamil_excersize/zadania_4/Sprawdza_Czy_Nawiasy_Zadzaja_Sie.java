@@ -31,11 +31,11 @@ public class Sprawdza_Czy_Nawiasy_Zadzaja_Sie {
 /*Napisz program, który sprawdzi, czy w podanym przez użytkownika wyrażeniu
 arytmetycznym nawiasy są poprawnie sparowane. Wyrażenie podawane jest jako
 pojedynczy łańcuch znaków. Program powinien wyświetlić stosowny komunikat.
-Przykład a:
-"2 * (3.4 - (-7)/2)*(a-2)/(b-1)))"
+Przykład BufferReader:
+"2 * (3.4 - (-7)/2)*(BufferReader-2)/(b-1)))"
 Wynik:
 Błędne sparowanie nawiasów
 Przykład b:
-"2 * (3.4 - (-7)/2)*(a-2)/(b-1))"
+"2 * (3.4 - (-7)/2)*(BufferReader-2)/(b-1))"
 Wynik:
 OK*/

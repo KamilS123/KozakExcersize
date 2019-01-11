@@ -1,7 +1,7 @@
 package com_kamil_excersize.misztal_edu_pl.spotkanie_8.grupa_rozszerzona.zadanie_7;
 
 public class Zadanie_1 implements Zadanie {
-    private String txt = "Jestem zadanie_1";
+    private String txt = "Jestem zadanie_1_printWriter";
 
     @Override
     public void wykonaj() {

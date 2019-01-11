@@ -8,7 +8,7 @@ public class Pole_Prostokata {
     }
     private static Integer poleProstokata() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Podaj bok a");
+        System.out.println("Podaj bok BufferReader");
         Integer a = scanner.nextInt();
         System.out.println("Podaj bok b");
         Integer b = scanner.nextInt();
@@ -16,6 +16,6 @@ public class Pole_Prostokata {
         return a*b;
     }
 }
-/*Zadanie 1. Proszę napisać program, który wyznaczy pole prostokąta. Wartości boków a i b wprowadzamy z klawiatury.
- W programie należy przyjąć, ze zmienne a, b oraz pole są typu double.
+/*Zadanie 1. Proszę napisać program, który wyznaczy pole prostokąta. Wartości boków BufferReader i b wprowadzamy z klawiatury.
+ W programie należy przyjąć, ze zmienne BufferReader, b oraz pole są typu double.
 Cel: klasa Scanner */

@@ -37,7 +37,7 @@ public class Oblicza_Sume_Cyfr_I_Stosunek {
         System.out.println("\nstosunek parzystych do nieparzystych wynosi ->" + liczbyParzyste/liczbyNieparzyste);
     }
 }
-/*Napisać program, który pobiera od użytkownika liczbę całkowitą, a następnie:
+/*Napisać program, który pobiera od użytkownika liczbę całkowitą, BufferReader następnie:
 • oblicza sumę cyfr tej liczby,
 • stosunek średniej arytmetycznej cyfr parzystych do średniej arytmetycznej
 cyfr nieparzystych.

@@ -18,7 +18,7 @@ public class wyswietla_nieparzyste_do_podanej {
         }
     }
 }
-/*Napisać program, który pobiera od użytkownika liczbę całkowitą dodatnią, a następnie
+/*Napisać program, który pobiera od użytkownika liczbę całkowitą dodatnią, BufferReader następnie
 wyświetla na ekranie kolejno wszystkie liczby niepatrzyste nie większe od
 podanej liczby. Przykład, dla 15 program powinien wyświetlić 1, 3, 5, 7, 9, 11, 13,
 15.

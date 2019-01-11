@@ -23,7 +23,7 @@ monoalfabetycznego.
 Użytkownik program podaje tekst do zaszyfrowania oraz liczbę n, o którą przesunięty
 jest alfabet za pomocą którego szyfrujemy tekst. Dla uproszczenia można
 przyjąć, że łańuch wejściowy składa się tylko z małych liter alfabetu angielskiego,
-tj. ’a’ – ’z’ (26 znaków) oraz spacji.
+tj. ’BufferReader’ – ’z’ (26 znaków) oraz spacji.
 Przykład 1.
 Podaj łańcuch znaków do zaszyfrowania: abrakadabraz
 Podaj przesunięcie: 2

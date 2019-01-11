@@ -21,6 +21,6 @@ public class Palindrom {
     return check;
     }
 }
-/*Napisać program, który wczytuje od użytkownika ciąg znaków, a następnie sprawdza,
+/*Napisać program, który wczytuje od użytkownika ciąg znaków, BufferReader następnie sprawdza,
 czy podany ciąg jest palindromem.
 */

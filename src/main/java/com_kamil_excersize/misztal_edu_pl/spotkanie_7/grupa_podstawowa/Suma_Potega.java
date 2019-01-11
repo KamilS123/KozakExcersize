@@ -14,5 +14,5 @@ public class Suma_Potega {
     }
 }
 /*Zadanie 3. Napisz funkcję (statyczną w klasie), która przyjmuje trzy liczby i wyznacza ich:
-sumę, czyli a+b+c
+sumę, czyli BufferReader+b+c
 potęgę abc*/

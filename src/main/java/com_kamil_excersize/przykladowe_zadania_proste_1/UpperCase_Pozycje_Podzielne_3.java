@@ -14,7 +14,7 @@ public class UpperCase_Pozycje_Podzielne_3 {
         for (int i = 0; i < strtoArr.length; i++) {
             if (i % 3 == 0) {
                 strtoArr[i] = strtoArr[i].toUpperCase();
-            } else if (strtoArr[i].equalsIgnoreCase("a") || strtoArr[i].equalsIgnoreCase("j") || strtoArr[i].equalsIgnoreCase("g") || strtoArr[i].equalsIgnoreCase("c") || strtoArr[i].equalsIgnoreCase("z")) {
+            } else if (strtoArr[i].equalsIgnoreCase("BufferReader") || strtoArr[i].equalsIgnoreCase("j") || strtoArr[i].equalsIgnoreCase("g") || strtoArr[i].equalsIgnoreCase("c") || strtoArr[i].equalsIgnoreCase("z")) {
                 counter++;
             }
         }
@@ -22,5 +22,5 @@ public class UpperCase_Pozycje_Podzielne_3 {
         System.out.println("new String -> " + newText + "\ncounter -> " + counter);
     }
 }
-/*Napisać wczytujący łańcuch liter, a następnie zamieniający litery (z małych na duże) znajdujące się na
-pozycjach podzielnych przez 3. Ponadto program zlicza liczbę wystąpień liter 'a', 'c', 'g', 'j' oraz 'z'. */
+/*Napisać wczytujący łańcuch liter, BufferReader następnie zamieniający litery (z małych na duże) znajdujące się na
+pozycjach podzielnych przez 3. Ponadto program zlicza liczbę wystąpień liter 'BufferReader', 'c', 'g', 'j' oraz 'z'. */

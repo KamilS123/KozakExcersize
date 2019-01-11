@@ -34,7 +34,7 @@ public class Za_Duzo_Za_Malo {
         }
     }
 }
-/*Gra w ”Za dużo, za mało”. Komputer losuje liczbę z zakresu 1 . . . 100, a gracz
+/*Gra w ”Za dużo, za mało”. Komputer losuje liczbę z zakresu 1 . . . 100, BufferReader gracz
 (użytkownik) ma za zadanie odgadnąć, co to za liczba poprzez podawanie kolejnych
 wartości. Jeżeli podana wartość jest:
 • większa – wyświetlany jest komunikat „Podałeś za dużą wartość”,

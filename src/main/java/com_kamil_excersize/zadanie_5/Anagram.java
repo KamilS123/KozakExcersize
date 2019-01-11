@@ -28,8 +28,8 @@ public class Anagram {
 czy łańcuch t2 jest anagramem tekstu t1 , czyli czy składa się z tych
 samych znaków, ale ustawionych niekoniecznie w tej samej kolejności
 Uwaga, należy sprawdzać jedynie małe i duże litery alfabetu angielskiego, jednak
-bez względu na ich wielkość, tzn. zarówno małe ’a’ jak i duże ’A’ liczone są tak
-samo. Pozostałe znaki nie są sprawdzane, a więc nie mają wpływu na to, czy
+bez względu na ich wielkość, tzn. zarówno małe ’BufferReader’ jak i duże ’A’ liczone są tak
+samo. Pozostałe znaki nie są sprawdzane, BufferReader więc nie mają wpływu na to, czy
 słowo będzie uznane za anagram innego.
 Przykładowo, dla poniższego fragmentu programu:
 System.out.println(czyAnagram("kolej", "olejk"));

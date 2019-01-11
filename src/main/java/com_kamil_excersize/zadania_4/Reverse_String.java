@@ -17,6 +17,6 @@ public class Reverse_String {
         return stringBuilder;
     }
 }
-/*Napisać program, który wczytuje od użytkownika ciąg znaków, a następnie tworzy
+/*Napisać program, który wczytuje od użytkownika ciąg znaków, BufferReader następnie tworzy
 łańcuch będący odwróceniem podanego łańcucha i wyświetla go na ekranie.
 Przykładowo, dla łańcucha „Kot” wynikiem powinien być łańcuch „toK”.*/

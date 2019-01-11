@@ -45,7 +45,7 @@ rzeczywistych. Program ma identyfikować sytuację wprowadzenia błędnego
 symbolu działania oraz próbę dzielenia przez zero. Zastosować instrukcję switch
 do wykonania odpowiedniego działania w zależności od wprowadzonego symbolu
 operacji. Scenariusz działania programu:
-a) Program wyświetla informację o swoim przeznaczeniu.
+BufferReader) Program wyświetla informację o swoim przeznaczeniu.
 b) Wczytuje pierwszą liczbę.
 c) Wczytuje symbol operacji arytmetycznej: +, -, *, /.
 d) Wczytuje drugą liczbę.

@@ -39,5 +39,5 @@ Kredyt jest oprocentowany w zależności od liczby rat:
 • od 13–24 wynosi 5%,
 • od 25–48 wynosi 10%.
 Obliczona miesięczna rata powinna zawierać również odsetki. Program powinien
-sprawdzać, czy podane dane mieszczą się w określonych powyżej zakresach, a w
+sprawdzać, czy podane dane mieszczą się w określonych powyżej zakresach, BufferReader w
 przypadku błędu pytać prosić użytkownika ponownie o podanie danych.*/

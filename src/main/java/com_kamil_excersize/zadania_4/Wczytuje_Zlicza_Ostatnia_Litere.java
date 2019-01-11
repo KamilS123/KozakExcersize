@@ -23,9 +23,9 @@ public class Wczytuje_Zlicza_Ostatnia_Litere {
         return count;
     }
 }
-/*Napisać program, który wczytuje od użytkownika ciąg znaków, a następnie wyświetla
+/*Napisać program, który wczytuje od użytkownika ciąg znaków, BufferReader następnie wyświetla
 informację o tym ile razy w tym ciągu powtarza się jego ostatni znak.
 Przykład, dla ciągu „Abrakadabra” program powinien wyświetlić 4, ponieważ
-ostatnim znakiem jest literka „a”, która występuje w podanym ciągu łącznie 4
+ostatnim znakiem jest literka „BufferReader”, która występuje w podanym ciągu łącznie 4
 razy.
 */
